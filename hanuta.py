@@ -7,6 +7,8 @@ def my_riegel(riegel):
     else:
         print("Fuck Off")
 
+def ich_bin_eine_biene():
+    print('bsssssssssss')
 
 my_riegel(input("Was willste?"))
 
